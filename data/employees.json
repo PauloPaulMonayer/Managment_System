@@ -1,0 +1,68 @@
+[
+  {
+    "fullName": "Alice Admin",
+    "id": "AD001",
+    "phone": "050-9999999",
+    "bankAccount": "BankAdmin",
+    "branch": "HQ",
+    "employeeNumber": 999,
+    "role": "ADMIN",
+    "username": "admin",
+    "password": "admin123"
+  },
+  {
+    "fullName": "Bob Manager",
+    "id": "SM100",
+    "phone": "050-1111222",
+    "bankAccount": "Bank-111",
+    "branch": "B001",
+    "employeeNumber": 1001,
+    "role": "SHIFT_MANAGER",
+    "username": "bobM",
+    "password": "bobpass"
+  },
+  {
+    "fullName": "Cathy Cashier",
+    "id": "CS200",
+    "phone": "050-2222333",
+    "bankAccount": "Bank-222",
+    "branch": "B002",
+    "employeeNumber": 1002,
+    "role": "CASHIER",
+    "username": "cathyC",
+    "password": "cash123"
+  },
+  {
+    "fullName": "Dan Seller",
+    "id": "SE300",
+    "phone": "050-3333444",
+    "bankAccount": "Bank-333",
+    "branch": "B003",
+    "employeeNumber": 1003,
+    "role": "SELLER",
+    "username": "danS",
+    "password": "sell123"
+  },
+  {
+    "fullName": "shani",
+    "id": "2432",
+    "phone": "304934",
+    "bankAccount": "Bank-10033",
+    "branch": "B002",
+    "employeeNumber": 23446,
+    "role": "CASHIER",
+    "username": "shani",
+    "password": "12345"
+  },
+  {
+    "fullName": "ran",
+    "id": "4355",
+    "phone": "347934",
+    "bankAccount": "Bank-738473",
+    "branch": "B003",
+    "employeeNumber": 384348,
+    "role": "CASHIER",
+    "username": "shhd",
+    "password": "123456"
+  }
+]

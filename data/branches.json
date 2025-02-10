@@ -1,0 +1,18 @@
+[
+    {
+        "branchId": "HQ",
+        "branchName": "Headquarters"
+    },
+    {
+        "branchId": "B001",
+        "branchName": "Rehovot Branch"
+    },
+    {
+        "branchId": "B002",
+        "branchName": "Rishon Lezion Branch"
+    },
+    {
+        "branchId": "B003",
+        "branchName": "Ramla Branch"
+    }
+]  

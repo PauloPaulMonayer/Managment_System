@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Doe",
+    "id": "1",
+    "phone": "050-1234567",
+    "type": "NEW"
+  },
+  {
+    "name": "Jane Smith",
+    "id": "12",
+    "phone": "050-2345678",
+    "type": "RETURNING"
+  },
+  {
+    "name": "Emily Johnson",
+    "id": "123",
+    "phone": "050-3456789",
+    "type": "VIP"
+  },
+  {
+    "name": "paulo",
+    "id": "1234",
+    "phone": "054-4325354",
+    "type": "NEW"
+  },
+  {
+    "name": "ron",
+    "id": "12345",
+    "phone": "043-7553345",
+    "type": "NEW"
+  },
+  {
+    "name": "yossi",
+    "id": "123456",
+    "phone": "052-5893454",
+    "type": "VIP"
+  }
+]

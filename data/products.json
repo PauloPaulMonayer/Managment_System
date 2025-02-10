@@ -1,0 +1,26 @@
+[
+  {
+    "id": "P100",
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 200.0,
+    "quantityInStock": 93,
+    "branch": "B001"
+  },
+  {
+    "id": "P200",
+    "name": "Shirt",
+    "category": "Clothing",
+    "price": 100.0,
+    "quantityInStock": 20,
+    "branch": "B001"
+  },
+  {
+    "id": "P300",
+    "name": "Hat",
+    "category": "Accessories",
+    "price": 50.0,
+    "quantityInStock": 125,
+    "branch": "B002"
+  }
+]
